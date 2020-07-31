@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Burning</string>
+    <string name="title_activity_maps">Burning man</string>
+
+    <string name="activity_prompt">Choose a activity</string>
+
+    <string-array name="actvity_arrays">
+        <item>Walking</item>
+        <item>Running</item>
+        <item>Cycling</item>
+    </string-array>
+</resources>
